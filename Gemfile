@@ -46,3 +46,4 @@ end
 gem "haml-rails", "~> 0.9"
 gem 'devise'
 gem 'omniauth-github'
+gem "github_api"
